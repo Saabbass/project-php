@@ -17,18 +17,19 @@
         ?>
     </h1>
 
-    <?php 
+    <?php
 
     $willekeurigeVariable = 3;
     $willekeurigeVariable = true;
     $willekeurigeVariable = [true, "yes", 4, "Sebas"];
 
     $mijnGegevens = [
-        "voornaam" => "Sebas", 
-        "achternaam" => "Tenk", 
-        "leeftijd" => 21];
+        "voornaam" => "Sebas",
+        "achternaam" => "Tenk",
+        "leeftijd" => 21
+    ];
 
-        echo $mijnGegevens["leeftijd"];
+    echo $mijnGegevens["leeftijd"];
     ?>
 
 
