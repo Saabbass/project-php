@@ -21,7 +21,7 @@
 
     $willekeurigeVariable = 3;
     $willekeurigeVariable = true;
-    $willekeurigeVariable = [true, "yes", 4, "sebas"];
+    $willekeurigeVariable = [true, "yes", 4, "sb"];
 
     $mijnGegevens = [
         "voornaam" => "sb",

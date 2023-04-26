@@ -38,14 +38,14 @@
 
     $willekeurigeVariable = 3;
     $willekeurigeVariable = true;
-    $willekeurigeVariable = [true, "yes", 4, "Sebas"];
+    $willekeurigeVariable = [true, "yes", 4, "sb"];
 
     $bonusGetallen = [5, 16, 19, 32, 56, 99];
 
     $mijnGegevens = [
-        "voornaam" => "Sebas", 
-        "achternaam" => "Tenk", 
-        "leeftijd" => 21];
+        "voornaam" => "sb", 
+        "achternaam" => "s", 
+        "leeftijd" => 1];
 
         echo $mijnGegevens["leeftijd"];
     ?>
