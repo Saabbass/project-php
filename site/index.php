@@ -21,12 +21,12 @@
 
     $willekeurigeVariable = 3;
     $willekeurigeVariable = true;
-    $willekeurigeVariable = [true, "yes", 4, "Sebas"];
+    $willekeurigeVariable = [true, "yes", 4, "sebas"];
 
     $mijnGegevens = [
-        "voornaam" => "Sebas",
-        "achternaam" => "Tenk",
-        "leeftijd" => 21
+        "voornaam" => "sb",
+        "achternaam" => "s",
+        "leeftijd" => 1
     ];
 
     echo $mijnGegevens["leeftijd"];
